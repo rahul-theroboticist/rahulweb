@@ -17,7 +17,7 @@ organizations:
 bio: I am a robotics researcher and freelance robotics educator. 
 
 # Interests to show in About widget
-area of interests:
+interests:
 - Human-Robot Interaction
 - Autonomous Systems
 - Space Robotics
@@ -66,6 +66,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
 
 I am a robotics researcher and freelance robotics educator. 
 
