@@ -1,5 +1,5 @@
 ---
-date: "2018-06-28T00:00:00+01:00"
+date: "2021-02-12T00:00:00+01:00"
 draft: false
 header:
   caption: ""
@@ -10,7 +10,7 @@ linktitle: "<i class=\"fab fa-creative-commons fa-2x\"></i><i class=\"fab fa-cre
 ---
 
 
-My [blog posts](/posts/) are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+My [blog posts](/post/) are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 <center>
 <i class="fab fa-creative-commons fa-2x"></i><i class="fab fa-creative-commons-by fa-2x"></i><i class="fab fa-creative-commons-sa fa-2x"></i>
