@@ -44,9 +44,9 @@ featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#  url: http://example.org
 
-url_pdf: 'https://iopscience.iop.org/article/10.1088/1757-899X/417/1/012010/pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
