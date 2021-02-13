@@ -37,7 +37,7 @@ abstract: Autonomous Vehicles are currently being tested in a variety of scenari
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: [Trajectory, Planning, Vehicle dynamics, Collision avoidance, Mobile robots, Optimization, Kinematics]
+tags: [Trajectory, Planning, Vehicle dynamics, Collision avoidance, Mobile robots, Optimization]
 
 # Display this page in the Featured widget?
 featured: false
