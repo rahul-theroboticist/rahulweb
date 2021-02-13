@@ -29,6 +29,8 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *Springer International Publishing*
 publication_short: In *Springer, Cham*
+conference: International Conference on Social Robotics
+conference_short: ICSR 2019: Social Robotics
 
 abstract: The capability of differentiating error situations from error-free situations in human-robot collaboration is a mandatory skill for collaborative robots. One of the variables that robots can analyse to differentiate both situations are the social signals from the human interaction partner. We performed an extensive human-robot collaboration user study involving 50 participants in which the robot purposefully executed erroneous behaviours. We annotated the occurrences and the duration of multimodal social signals from the participants during both error-free situations and error situations using an automatic video annotation method based on OpenFace. An analysis of the annotation shows that the participants express more facial expressions, head gestures, and gaze shifts during erroneous situations than in error-free situations. The duration of the facial expressions and gaze shifts is also longer during error situations. Our results additionally show that people look at the robot and the table with a longer duration and look at the objects with a shorter duration in error situations compared to error-free situations. The results of this research are essential for the development of automatic error recognition and error handling in human-robot collaboration.
 
