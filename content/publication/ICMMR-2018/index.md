@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *5th International Conference on Mechanics and Mechatronics Research (ICMMR 2018), IOP Publishing*
-publication_short: In *ICMMR 2018, IOP Conference Series in Materials Science and Engineering, Volume 417, IOP Publishing.*
+publication_short: In *ICMMR 2018, IOP Conference Series in Materials Science and Engineering, Volume 417, IOP Publishing*
 
 abstract: Attentions to the bio-inspired robots are increasing dramatically in last two decades. Flexible structure, excellent flexibility and possibility of working in constrained environment made continuum robots attractive in robotic community. The purpose of this paper is to introduce, describe and test a novel design of continuum robot backbone design with variable stiffness which using of coil springs. A kinematic model is introduced and explained which could be applied for to a wide range of construction with two pairs of cables per section design. Furthermore, based on the geometry and material property of compliant joint, the robot is verified for justification of the robot construction. Finally, prototype motion analysis tested and repeatability experiments are carried out.
 
