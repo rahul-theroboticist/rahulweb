@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2018-12-10T00:00:00Z"
-doi: " 10.1109/ITSC.2018.8569244"
+doi: "10.1109/ITSC.2018.8569244"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-12-15T00:00:00Z"
