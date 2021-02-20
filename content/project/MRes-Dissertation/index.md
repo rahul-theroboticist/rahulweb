@@ -1,6 +1,7 @@
 ---
 title: Human's Social Signals during Error Situations in Human-Robot Interaction
-subtitle: My MRes robotics research dissertation. 
+subtitle: My MSc by research (MRes) robotics dissertation
+summary: Research dissertation completed as part of my postgraduate degree.  
 authors: ["admin"]
 tags:
 - Human Robot Interaction
