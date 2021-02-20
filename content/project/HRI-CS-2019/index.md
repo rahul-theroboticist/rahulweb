@@ -1,9 +1,12 @@
 ---
 title: Effectiveness of verbal communication with conjunction of gestures and facial expression in human-robot interaction
-summary: A HRI case study was conducted as part of the human-robot interaction coursework during my postgraduate studies. 
+subtitle: Human-Robot Interaction user case study
+summary: A HRI case study was conducted as part of the human-robot interaction course during my postgraduate. 
+authors: ["admin"]
 tags:
 - Human Robot Interaction
 - Case Study
+- Nao Robot
 date: "2019-03-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
