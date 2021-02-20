@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 65
@@ -30,10 +30,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Human-Robot Interaction
+    tag: Human Robot Interaction
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
