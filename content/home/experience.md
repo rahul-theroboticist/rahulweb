@@ -39,7 +39,6 @@ experience:
         * Vision and GPS based Motion planning and control,
         * Research new methodologies, suggest changes and execution of prototype development.
 
-experience:
   - title: Mechatronics Engineer 
     company: MTJB Engineering Ltd.
     company_url: 'https://www.mtjb-engineering.com/'
