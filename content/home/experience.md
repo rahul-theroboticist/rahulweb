@@ -25,9 +25,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: R & D Engineer - Robotics and Autonomous Systems
+  - title: R&D Engineer - Robotics and Autonomous Systems
     company: VEDA Aeronautics Pvt. Ltd.
-#   company_url: 'https://www.mtjb-engineering.com/'
+    company_url: ''
     location: Delhi NCR, India
     date_start: '2021-05-19'
     date_end: ''
