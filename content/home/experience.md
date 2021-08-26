@@ -25,7 +25,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Engineering Intern 
+  - title: R & D Engineer - Robotics and Autonomous Systems
+    company: VEDA Aeronautics Pvt. Ltd.
+#   company_url: 'https://www.mtjb-engineering.com/'
+    location: Delhi NCR, India
+    date_start: '2021-05-19'
+    date_end: ''
+    description: |2- 
+        Responsibilities include but are not limited to:
+        
+        * Design and development of system level architecture for hard real-time integrated embedded systems,
+        * Sensor fusion algorithms, 
+        * Vision and GPS based Motion planning and control,
+        * Research new methodologies, suggest changes and execution of prototype development.
+
+experience:
+  - title: Mechatronics Engineer 
     company: MTJB Engineering Ltd.
     company_url: 'https://www.mtjb-engineering.com/'
     location: Future Space, Bristol, UK
