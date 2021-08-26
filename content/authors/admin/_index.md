@@ -6,20 +6,20 @@ title: Rahul R Ramakrishnan
 superuser: true
 
 # Role/position/tagline
-role: Research Student
+role: R&D Engineer - Robotics and Autonomous Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Bristol Robotics Lab, UWE Bristol
-  url: https://www.bristolroboticslab.com/
+- name: VEDA Aeronautics
+#  url: https://www.bristolroboticslab.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a robotics researcher and freelance robotics educator. 
 
 # Interests to show in About widget
 interests:
-- Human-Robot Interaction
 - Space Robotics
+- Human-Robot Interaction
 - Autonomous Systems
 
 # Education to show in About widget
