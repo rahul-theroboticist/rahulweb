@@ -73,4 +73,5 @@ I am an aspiring full-stack roboticist. Since my undergraduate studies, I have b
 
 During my free time, I like reading murder-mystery novels, playing chess and bike riding. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rahul_CV-SEP20.pdf" "newtab" >}}CV{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rahul_CV-SEP20.pdf" "newtab" >}}CV{{< /staticref >}}.
+[Haven't migrated my past projects and work experiences from my old website yet, to check out click here.](https://ramkrishnanrahul.wixsite.com/helloworld/teams)
