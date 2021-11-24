@@ -18,19 +18,23 @@ bio: I am a robotics researcher and freelance robotics educator.
 
 # Interests to show in About widget
 interests:
-- Space Robotics
-- Human-Robot Interaction
-- Autonomous Systems
+- Distributed Artificial Intelligence
+- Human-Machine Teaming
+- Human-Robot Interaction 
+- Dynamics, control and Motion Planning
 
 # Education to show in About widget
 education:
   courses:
   - course: MSc by Research in Robotics
     institution: University of the West of England Bristol, United Kingdom
-    year: 2020
+    year: Jan. 2019 – Sep. 2020
+  - course: Visiting Research Student in Robotics (Semester Abroad Program)
+    institution: Tokai University, Shonan Campus, Hiratsuka, Japan
+    year: Oct. 2017 – Feb. 2018
   - course: B.Tech in Mechatronics Engineering
-    institution: SRM Institute of Science and Technology, India
-    year: 2018
+    institution: SRM Institute of Science and Technology, Kattankulathur, Chennai, India
+    year: July 2014 – June 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,11 +71,12 @@ email: ""
 highlight_name: false
 ---
 
-I am a robotics researcher and freelance robotics educator. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field, but I'm most passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
+I am a robotics researcher and freelance robotics educator. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
 
-I am an aspiring full-stack roboticist. Since my undergraduate studies, I have been exploring the world of robotics. With a B.Tech in mechatronics engineering and MSc by research (MRes) in robotics, I had worked in different areas of robotics research namely aerial robotics, unmanned surface vehicles, continuum robotics and more recently in human-robot interaction. My current research interests include nonlinear dynamics, motion planning, and control of robot manipulators and underactuated systems with an emphasis on different learning methods.      
+I am an aspiring full-stack roboticist. Since my undergraduate studies, I have been exploring the world of robotics. With a B.Tech in mechatronics engineering and MSc by research (MRes) in robotics, I had worked in different areas of robotics research namely aerial robotics, unmanned surface vehicles, continuum robotics and more recently in human-robot interaction.      
 
 During my free time, I like reading murder-mystery novels, playing chess and bike riding. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rahul_CV-SEP20.pdf" "newtab" >}}CV{{< /staticref >}}.
-[Haven't migrated my past projects and work experiences from my old website yet, to check out click here.](https://ramkrishnanrahul.wixsite.com/helloworld/teams)
+
+Haven't migrated my past projects and work experiences from my old website yet, to check out [click here.](https://ramkrishnanrahul.wixsite.com/helloworld/teams)
