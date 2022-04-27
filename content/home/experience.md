@@ -34,10 +34,11 @@ experience:
     description: |2- 
         Responsibilities include but are not limited to:
         
-        * Design and development of system level architecture for hard real-time integrated embedded systems,
-        * Sensor fusion algorithms, 
-        * Vision and GPS based Motion planning and control,
-        * Research new methodologies, suggest changes and execution of prototype development.
+        * Design and development of system level architecture for hard real-time integrated embedded systems.
+        * Implementation of Real-time object detection and recognition using deep neural networks. 
+        * Vision and GPS based Motion planning and control, development of simulation environment for the same and testing in various scenarios.
+        * Research new methodologies, suggest changes, develop software packages and execution of prototype development and tests.
+        * Currently working on monocular visual-inertial SLAM.
 
   - title: Mechatronics Engineer 
     company: MTJB Engineering Ltd.
