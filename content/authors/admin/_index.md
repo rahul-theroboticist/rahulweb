@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Rahul R Ramakrishnan
+title: Rahul R. Ramakrishnan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: R&D Engineer - Robotics and Autonomous Systems
+role: Robotics Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: VEDA Aeronautics
-#  url: https://www.bristolroboticslab.com/
+- name: The National Robotarium
+-  url: https://thenationalrobotarium.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a robotics researcher and freelance robotics educator. 
+bio: I am your neighbourhood robotics engineer and a freelance robotics educator. 
 
 # Interests to show in About widget
 interests:
 - Distributed Artificial Intelligence
 - Human-Machine Teaming
 - Human-Robot Interaction 
-- Dynamics, control and Motion Planning
+- Dynamics, Control and Motion Planning
 
 # Education to show in About widget
 education:
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a robotics researcher and freelance robotics educator. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
+I am a robotics engineer and freelance robotics educator. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
 
 I am an aspiring full-stack roboticist. Since my undergraduate studies, I have been exploring the world of robotics. With a B.Tech in mechatronics engineering and MSc by research (MRes) in robotics, I had worked in different areas of robotics research namely aerial robotics, unmanned surface vehicles, continuum robotics and more recently in human-robot interaction.      
 
@@ -79,4 +79,4 @@ During my free time, I like reading murder-mystery novels, playing chess and bik
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rahul_CV-SEP20.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-Haven't migrated my past projects and work experiences from my old website yet, to check out [click here.](https://ramkrishnanrahul.wixsite.com/helloworld/teams)
+Haven't migrated my past projects and work experiences (2014 - 2018) from my old website yet, to check out [click here.](https://ramkrishnanrahul.wixsite.com/helloworld/teams)
