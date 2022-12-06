@@ -79,4 +79,4 @@ During my free time, I like reading murder-mystery novels, playing chess and bik
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rahul_CV-SEP20.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-Haven't migrated my past projects and work experiences from my old website yet, to check out [click here.](https://ramkrishnanrahul.wixsite.com/helloworld/teams)
+Haven't migrated my past projects and work experiences (2014 - 2018) from my old website yet, to check out [click here.](https://ramkrishnanrahul.wixsite.com/helloworld/teams)
