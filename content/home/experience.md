@@ -25,12 +25,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Robotics Engineer
+    company: The National Robotarium
+    company_url: 'https://thenationalrobotarium.com/'
+    location: Edinburgh, Scotland, UK
+    date_start: '2022-09-01'
+    date_end: ''
+    
   - title: R&D Engineer - Robotics and Autonomous Systems
     company: VEDA Aeronautics Pvt. Ltd.
     company_url: ''
     location: Delhi NCR, India
-    date_start: '2021-05-19'
-    date_end: ''
+    date_start: '2021-05-20'
+    date_end: '2022-08-11'
     description: |2- 
         Responsibilities include but are not limited to:
         
@@ -38,7 +45,7 @@ experience:
         * Implementation of Real-time object detection and recognition using deep neural networks. 
         * Vision and GPS based Motion planning and control, development of simulation environment for the same and testing in various scenarios.
         * Research new methodologies, suggest changes, develop software packages and execution of prototype development and tests.
-        * Currently working on monocular visual-inertial SLAM.
+        * Literature study on monocular visual-inertial SLAM.
 
   - title: Mechatronics Engineer 
     company: MTJB Engineering Ltd.
