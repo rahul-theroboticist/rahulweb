@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rahul R. Ramakrishnan
+title: Rahul R. Ramachandran
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,11 +17,13 @@ organizations:
 bio: I am your neighbourhood robotics engineer and a freelance robotics educator. 
 
 # Interests to show in About widget
-interests:
+Areas of expertise & interests:
+- Computer vision & Robot vision-based navigation
+- Robot Motion planning
+- Robot Loco-manipulation 
+- Tele-supervisory human-robot systems
+- Multi-Robot Systems
 - Distributed Artificial Intelligence
-- Human-Machine Teaming
-- Human-Robot Interaction 
-- Dynamics, Control and Motion Planning
 
 # Education to show in About widget
 education:
@@ -55,7 +57,7 @@ social:
   link: https://github.com/rahul-theroboticist
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rahul-r-ramakrishnan-29a65371/
+  link: https://www.linkedin.com/in/rahul-r-ramachandran-29a65371/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
